@@ -1,0 +1,1072 @@
+
+Test Case 1  		<error>
+   Presence of a file corresponding to the name :  Not present
+
+
+Test Case 2  		<error>
+   Number of files :  None
+
+
+Test Case 3  		<error>  (follows [if])
+   From-string length :  greater than file length
+
+
+Test Case 4  		<error>  (follows [if])
+   Options :  -Invalid argument
+
+
+Test Case 5  		(Key = 1.2.1.2.1.1.0.0.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 6  		(Key = 1.2.1.2.1.2.0.0.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 7  		(Key = 1.2.1.3.1.1.0.0.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 8  		(Key = 1.2.1.3.1.2.0.0.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 9  		(Key = 1.2.2.2.1.1.0.1.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 10 		(Key = 1.2.2.2.1.1.0.2.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 11 		(Key = 1.2.2.2.1.1.0.3.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 12 		(Key = 1.2.2.2.1.1.0.4.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 13 		(Key = 1.2.2.2.1.2.0.1.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 14 		(Key = 1.2.2.2.1.2.0.2.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 15 		(Key = 1.2.2.2.1.2.0.3.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 16 		(Key = 1.2.2.2.1.2.0.4.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 17 		(Key = 1.2.2.3.1.1.0.1.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 18 		(Key = 1.2.2.3.1.1.0.2.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 19 		(Key = 1.2.2.3.1.1.0.3.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 20 		(Key = 1.2.2.3.1.1.0.4.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 21 		(Key = 1.2.2.3.1.2.0.1.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 22 		(Key = 1.2.2.3.1.2.0.2.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 23 		(Key = 1.2.2.3.1.2.0.3.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 24 		(Key = 1.2.2.3.1.2.0.4.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 25 		(Key = 1.2.3.2.1.1.0.5.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 26 		(Key = 1.2.3.2.1.2.0.5.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 27 		(Key = 1.2.3.3.1.1.0.5.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 28 		(Key = 1.2.3.3.1.2.0.5.)
+   Size of the file                             :  Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 29 		(Key = 2.2.1.2.1.1.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 30 		(Key = 2.2.1.2.1.2.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 31 		(Key = 2.2.1.2.2.1.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 32 		(Key = 2.2.1.2.2.2.1.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  <n/a>
+
+
+Test Case 33 		(Key = 2.2.1.2.2.2.2.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  <n/a>
+
+
+Test Case 34 		(Key = 2.2.1.2.2.2.3.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  <n/a>
+
+
+Test Case 35 		(Key = 2.2.1.3.1.1.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 36 		(Key = 2.2.1.3.1.2.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 37 		(Key = 2.2.1.3.2.1.0.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  <n/a>
+
+
+Test Case 38 		(Key = 2.2.1.3.2.2.1.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  <n/a>
+
+
+Test Case 39 		(Key = 2.2.1.3.2.2.2.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  <n/a>
+
+
+Test Case 40 		(Key = 2.2.1.3.2.2.3.0.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  zero
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  <n/a>
+
+
+Test Case 41 		(Key = 2.2.2.2.1.1.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 42 		(Key = 2.2.2.2.1.1.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 43 		(Key = 2.2.2.2.1.1.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 44 		(Key = 2.2.2.2.1.1.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 45 		(Key = 2.2.2.2.1.2.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 46 		(Key = 2.2.2.2.1.2.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 47 		(Key = 2.2.2.2.1.2.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 48 		(Key = 2.2.2.2.1.2.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 49 		(Key = 2.2.2.2.2.1.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 50 		(Key = 2.2.2.2.2.1.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 51 		(Key = 2.2.2.2.2.1.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 52 		(Key = 2.2.2.2.2.1.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 53 		(Key = 2.2.2.2.2.2.1.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -b
+
+
+Test Case 54 		(Key = 2.2.2.2.2.2.1.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -f
+
+
+Test Case 55 		(Key = 2.2.2.2.2.2.1.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -l
+
+
+Test Case 56 		(Key = 2.2.2.2.2.2.1.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -i
+
+
+Test Case 57 		(Key = 2.2.2.2.2.2.2.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -b
+
+
+Test Case 58 		(Key = 2.2.2.2.2.2.2.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -f
+
+
+Test Case 59 		(Key = 2.2.2.2.2.2.2.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -l
+
+
+Test Case 60 		(Key = 2.2.2.2.2.2.2.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -i
+
+
+Test Case 61 		(Key = 2.2.2.2.2.2.3.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -b
+
+
+Test Case 62 		(Key = 2.2.2.2.2.2.3.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -f
+
+
+Test Case 63 		(Key = 2.2.2.2.2.2.3.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -l
+
+
+Test Case 64 		(Key = 2.2.2.2.2.2.3.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -i
+
+
+Test Case 65 		(Key = 2.2.2.3.1.1.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 66 		(Key = 2.2.2.3.1.1.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 67 		(Key = 2.2.2.3.1.1.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 68 		(Key = 2.2.2.3.1.1.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 69 		(Key = 2.2.2.3.1.2.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 70 		(Key = 2.2.2.3.1.2.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 71 		(Key = 2.2.2.3.1.2.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 72 		(Key = 2.2.2.3.1.2.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 73 		(Key = 2.2.2.3.2.1.0.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -b
+
+
+Test Case 74 		(Key = 2.2.2.3.2.1.0.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -f
+
+
+Test Case 75 		(Key = 2.2.2.3.2.1.0.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -l
+
+
+Test Case 76 		(Key = 2.2.2.3.2.1.0.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -i
+
+
+Test Case 77 		(Key = 2.2.2.3.2.2.1.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -b
+
+
+Test Case 78 		(Key = 2.2.2.3.2.2.1.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -f
+
+
+Test Case 79 		(Key = 2.2.2.3.2.2.1.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -l
+
+
+Test Case 80 		(Key = 2.2.2.3.2.2.1.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -i
+
+
+Test Case 81 		(Key = 2.2.2.3.2.2.2.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -b
+
+
+Test Case 82 		(Key = 2.2.2.3.2.2.2.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -f
+
+
+Test Case 83 		(Key = 2.2.2.3.2.2.2.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -l
+
+
+Test Case 84 		(Key = 2.2.2.3.2.2.2.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -i
+
+
+Test Case 85 		(Key = 2.2.2.3.2.2.3.1.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -b
+
+
+Test Case 86 		(Key = 2.2.2.3.2.2.3.2.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -f
+
+
+Test Case 87 		(Key = 2.2.2.3.2.2.3.3.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -l
+
+
+Test Case 88 		(Key = 2.2.2.3.2.2.3.4.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  one
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -i
+
+
+Test Case 89 		(Key = 2.2.3.2.1.1.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 90 		(Key = 2.2.3.2.1.2.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 91 		(Key = 2.2.3.2.2.1.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 92 		(Key = 2.2.3.2.2.2.1.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -Combination
+
+
+Test Case 93 		(Key = 2.2.3.2.2.2.2.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -Combination
+
+
+Test Case 94 		(Key = 2.2.3.2.2.2.3.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  One
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -Combination
+
+
+Test Case 95 		(Key = 2.2.3.3.1.1.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 96 		(Key = 2.2.3.3.1.2.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  zero
+   To-string length                             :  greater than zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 97 		(Key = 2.2.3.3.2.1.0.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  zero
+   Arguments type                               :  <n/a>
+   Options                                      :  -Combination
+
+
+Test Case 98 		(Key = 2.2.3.3.2.2.1.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  alphanumeric
+   Options                                      :  -Combination
+
+
+Test Case 99 		(Key = 2.2.3.3.2.2.2.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  special characters
+   Options                                      :  -Combination
+
+
+Test Case 100		(Key = 2.2.3.3.2.2.3.5.)
+   Size of the file                             :  Not Empty
+   Presence of a file corresponding to the name :  Present
+   Number of option arguments                   :  multiple
+   Number of files                              :  Many
+   From-string length                           :  greater than zero, less than file length
+   To-string length                             :  greater than zero
+   Arguments type                               :  spaces
+   Options                                      :  -Combination
+
