@@ -1,0 +1,44 @@
+#Environment
+
+Size of the file:
+	Empty.								[property isEmpty]
+	Not Empty.
+
+Presence of a file corresponding to the name:
+	Not present.							[error]
+	Present.
+
+Number of option arguments:
+	zero.								[property zeroArguments]
+	one.								[property oneArgument]
+	multiple.							[property multipleArguments]
+
+Number of files:
+	None.								[error]
+	One.
+	Many.
+
+
+#Arguments
+
+From-string length:
+	zero.								[property fromStringEmpty]
+	greater than zero, less than file length.			[if !isEmpty]
+	greater than file length.			                [if !isEmpty][error]
+	
+To-string length:
+	zero.								[property toStringEmpty]
+	greater than zero.
+
+Arguments type:
+	alphanumeric.							[if !isEmpty && !fromStringEmpty && !toStringEmpty]
+	special characters.						[if !isEmpty && !fromStringEmpty && !toStringEmpty]
+	spaces.							        [if !isEmpty && !fromStringEmpty && !toStringEmpty]
+
+Options:
+	-b.								[if !zeroArguments && oneArgument]
+	-f.								[if !zeroArguments && oneArgument]
+	-l.								[if !zeroArguments && oneArgument]
+	-i.								[if !zeroArguments && oneArgument]
+	-Combination.							[if !zeroArguments && multipleArguments]
+	-Invalid argument.						[if !zeroArguments][error]
