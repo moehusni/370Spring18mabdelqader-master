@@ -46,10 +46,8 @@ public class Main {
 
 				try {
 					PrintWriter pw = new PrintWriter(new File(newPathname));
-					if(tf.getContents().length()!=0) {
 					pw.print(tf.getContents());
 					pw.close();
-					}
 				} catch (IOException e) {
 
 					e.printStackTrace();
@@ -202,12 +200,10 @@ public class Main {
 		String content = null;
 		try {
 			content = new String(Files.readAllBytes(Paths.get(pathname)), Charset.forName("UTF-8"));
-			if(content.length()!=0) 
 			files.add(new TextFile(pathname, content));
-			
-		
+		}
 
-		}catch (NoSuchFileException e) {
+		catch (NoSuchFileException e) {
 			int index = pathname.lastIndexOf('\\');
 			String filename = pathname.substring(index + 1, pathname.length());
 			System.err.println("File " + filename + " not found");
